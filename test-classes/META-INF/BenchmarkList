@@ -1,0 +1,2 @@
+JMH S 30 com.book.backend.BenchmarkTest S 54 com.book.backend.generated.BenchmarkTest_shift_jmhTest S 5 shift S 10 Throughput I 1 2 A 1 1 1 E I 1 3 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 12 MILLISECONDS E E 
+JMH S 30 com.book.backend.BenchmarkTest S 52 com.book.backend.generated.BenchmarkTest_div_jmhTest S 3 div S 10 Throughput I 1 2 A 1 1 1 E I 1 3 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 12 MILLISECONDS E E 
